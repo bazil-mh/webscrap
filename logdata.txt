@@ -1,0 +1,30 @@
+Updated on 2021-11-29 18:35:12.377490
+temperature : 28
+Chance for rain : 83
+Sunrise : :06:20
+Sunset : :18:01
+Moonrise : :01:28
+Moonset : :13:57
+Wind : 0
+--------------------------------
+
+Updated on 2021-11-29 18:35:20.473865
+temperature : 28
+Chance for rain : 83
+Sunrise : :06:20
+Sunset : :18:01
+Moonrise : :01:28
+Moonset : :13:57
+Wind : 0
+--------------------------------
+
+Updated on 2021-11-29 18:57:28.727754
+temperature : 28
+Chance for rain : 83
+Sunrise : :06:20
+Sunset : :18:01
+Moonrise : :01:28
+Moonset : :13:57
+Wind : 0
+--------------------------------
+
